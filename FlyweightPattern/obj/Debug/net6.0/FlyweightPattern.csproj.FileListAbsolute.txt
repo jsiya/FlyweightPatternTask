@@ -1,0 +1,15 @@
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.exe
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.deps.json
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.runtimeconfig.json
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.dll
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\bin\Debug\net6.0\FlyweightPattern.pdb
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.csproj.AssemblyReference.cache
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.AssemblyInfoInputs.cache
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.AssemblyInfo.cs
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.dll
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\refint\FlyweightPattern.dll
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.pdb
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\FlyweightPattern.genruntimeconfig.cache
+C:\Users\Siya\source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\net6.0\ref\FlyweightPattern.dll
